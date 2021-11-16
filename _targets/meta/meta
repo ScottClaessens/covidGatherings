@@ -1,0 +1,9 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+fitRICLPM|function|e0d9dfd898c9e36a||||||||||||||
+loadData|function|78d2682f2906d48c||||||||||||||
+dataFile|stem|c722f22894497f41|d5a1161cbab13bd4|ef46db3751d8e999|1514254187|data/Cohorts 1&2 -- T1-T14 - new covid.csv|t18947.8506570139s|3811649a2760ce1e|4162792|file|vector|||1.68|package dplyr was built under R version 4.0.5|
+d|stem|0abddc278a2808a7|5c7604326e07543c|e2743553459df32a|592496261||t18947.8509295139s|885d01dd5137e37e|8638|rds|vector|||0.64||
+riclpm1|stem|0bb15d1782f0b05a|36c99697710a0084|d3559e1e1d78164b|486005630||t18947.8509358565s|9510698e0bd4947c|30416|rds|vector|||0.48|lavaan WARNING some cases are empty and will be ignored  101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117|
+riclpm2|stem|24c3f617943b83d8|1618c3618eb3bf16|d3559e1e1d78164b|791314403||t18947.8509408565s|12fdfa057b444329|31259|rds|vector|||0.39|lavaan WARNING some cases are empty and will be ignored  101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117|
+riclpm3|stem|70628a686c92acf7|97d45a076be152b0|d3559e1e1d78164b|954569561||t18947.8509454514s|cde953facfa74b44|30402|rds|vector|||0.31|lavaan WARNING some cases are empty and will be ignored  101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117|
+riclpm4|stem|24da9bccf113fb46|666150617cbd145c|d3559e1e1d78164b|1252210388||t18947.8509501273s|ee8c100eb9ab2301|31169|rds|vector|||0.36|lavaan WARNING some cases are empty and will be ignored  101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117|
